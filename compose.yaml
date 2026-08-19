@@ -1,0 +1,52 @@
+name: cna-online-backend
+
+services:
+  app:
+    build:
+      context: .
+      target: development
+    command: sh -c "composer install --no-interaction && php -S 0.0.0.0:8080 -t public"
+    env_file: .env
+    environment:
+      DB_CONNECTION: pgsql
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_DATABASE: cna
+      DB_USERNAME: cna
+      DB_PASSWORD: "${DB_PASSWORD:-cna-local}"
+      REDIS_HOST: redis
+    ports:
+      - "${APP_PORT:-8080}:8080"
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: cna
+      POSTGRES_USER: cna
+      POSTGRES_PASSWORD: "${DB_PASSWORD:-cna-local}"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U cna -d cna"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:8-alpine
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  postgres-data:
