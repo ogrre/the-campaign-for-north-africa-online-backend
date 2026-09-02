@@ -1,0 +1,1585 @@
+{
+  "schema_version": 1,
+  "mappings": [
+    {
+      "unit_id": "italian.it_scfzrn_scfzrn",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_egug_el_grein",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_sahara_sahara",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_4_10_army_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_xxxiilib_star",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_xviiilib_star",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_benina_benina",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_libyan_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_ftmad_ftmad",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_soluch_soluch_art",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_soluch_soluch_spa",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_mechili_mechili",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "allied.al_1fmtmr_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_7_med_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_4_rha_7spt_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_krrc_7spt_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_3cldgds_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_3_rha_7spt_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_rnf_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_rtr_7_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2rflbde_7spt_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_11_hus_7spt_7",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_4_in_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_5_in_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_1_rfslr_5_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_3_1_pjb_9_4in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_4_6rajrf_5_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_1rssx_2_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_4_11skh_2_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_4_16_7_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_11_in_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_2_cmm_11_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_1_6rajrf_11_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_4_7rajpt_11_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_1_cih_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_25_fld_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_16_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_y_l_14_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2blkwa_14_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_4_bord_23_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_durlt_23_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_essex_23_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2_qns_16_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2leicst_16_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_a7s_16_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_b_h_14_70",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_149_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_65_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_8_med_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_57_laa_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_15_laa_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_9_haa_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2_kor_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_1_ches_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_1_wlch_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_8_fld_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_2_nz_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_4_nz_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_18_nz_4_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_19_nz_4_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_20_nz_4_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_21_nz_5_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_22_nz_5_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_23_nz_5_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_28_mao_5_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_24_nz_6_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_25_nz_6_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_26_nz_6_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_27_nz_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_2nz_cv_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "new_zealand.nz_4nz_fld_2_nz",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "indian.in_31_fld_4_in",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_2sctgds_none",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.br_selby_matruh",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_vii_31_tbk",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_vi_31_tbk",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "italian.it_v_31_tbk",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.42_rtr",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    },
+    {
+      "unit_id": "british.32_army_tank_brigade",
+      "status": "MISSING_FROM_AVAILABLE_SOURCES",
+      "equipment": [],
+      "provenance": [
+        {
+          "source": "data/canonical/characteristics.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        },
+        {
+          "source": "data/canonical/equipment.json",
+          "method": "deterministic resolver",
+          "confidence": "HIGH"
+        }
+      ],
+      "evidence": [
+        "no explicit equipment code is present in the resolved unit/characteristic records"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1266 @@
+{
+  "schema_version": 1,
+  "status": "PARTIAL",
+  "locations": [
+    {
+      "id": "facility-location.abbassia",
+      "name": "Abbassia",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E2132",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.aboukir",
+      "name": "Aboukir",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E3815",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.abu_seier",
+      "name": "Abu Seier",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP_E3433",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.alexandria",
+      "name": "Alexandria",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "E3613_E3714",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.almaza",
+      "name": "Almaza",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E2133",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.amiriya",
+      "name": "Amiriya",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E2212",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.barce",
+      "name": "Barce",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5504",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.benina",
+      "name": "Benina",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map A",
+      "hex_id": "A4829",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.dekheila",
+      "name": "Dekheila",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E3512",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.deversoir",
+      "name": "Deversoir",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP_E1833",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.el_adem",
+      "name": "El Adem",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4507",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.el_berea",
+      "name": "El Berea",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map A",
+      "hex_id": "A4728",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.fayid",
+      "name": "Fayid",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.ft_maddalena",
+      "name": "Ft Maddalena",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C3019",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.ismailia",
+      "name": "Ismailia",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.kabrit",
+      "name": "Kabrit",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP_E1833",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.martuba",
+      "name": "Martuba",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5526",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.mersa_matruh",
+      "name": "Mersa Matruh",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3714",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.soluch",
+      "name": "Soluch",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map A",
+      "hex_id": "A4130",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.tripoli_tunisia_boxes",
+      "name": "Tripoli/Tunisia boxes",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "TRIPOLI_TUNISIA_BOXES",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.augila",
+      "name": "Augila",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B0707",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.bardia",
+      "name": "Bardia",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4321",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.bir_el_gubi",
+      "name": "Bir el Gubi",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4108",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.burg_el_arab",
+      "name": "Burg el Arab",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E3109",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.buq_buq",
+      "name": "Buq Buq",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C3926",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.el_agheila",
+      "name": "El Agheila",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map A",
+      "hex_id": "A1816",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.el_hamman",
+      "name": "El Hamman",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E3007",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.ft_capuzzo",
+      "name": "Ft Capuzzo",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4020",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.fuka",
+      "name": "Fuka",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3323",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.gambut",
+      "name": "Gambut",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4414",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.gazala",
+      "name": "Gazala",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B4933",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.giarabub",
+      "name": "Giarabub",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C1014",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.maraua",
+      "name": "Maraua",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5410",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.matten_baggush",
+      "name": "Matten Baggush",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3520",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.mechili",
+      "name": "Mechili",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B4921",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.menastir",
+      "name": "Menastir",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4419",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.qotifiya",
+      "name": "Qotifiya",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3227",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.sidi_azeiz",
+      "name": "Sidi Azeiz",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4218",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.sidi_barrani",
+      "name": "Sidi Barrani",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4131",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.sidi_haneish",
+      "name": "Sidi Haneish",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3418",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.sidi_omar",
+      "name": "Sidi Omar",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C3618",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.sollum",
+      "name": "Sollum",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4021",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.siwa",
+      "name": "Siwa",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C0127",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.tmimi",
+      "name": "Tmimi",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5229",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.tobruk",
+      "name": "Tobruk",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4807",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.ztert",
+      "name": "Ztert",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5917",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.unnamed_strip_1",
+      "name": "Unnamed strip 1",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4119",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.unnamed_strip_2",
+      "name": "Unnamed strip 2",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3231",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.unnamed_strip_3",
+      "name": "Unnamed strip 3",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3416",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.unnamed_strip_4",
+      "name": "Unnamed strip 4",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3516",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.unnamed_strip_5",
+      "name": "Unnamed strip 5",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3903",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.alexandria",
+      "name": "Alexandria",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map E",
+      "hex_id": "E3614",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.bomba",
+      "name": "Bomba",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5331",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.port_said",
+      "name": "Port Said",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "OFF_MAP_E4033",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.derna",
+      "name": "Derna",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B5925",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.5",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.tripoli",
+      "name": "Tripoli major repair facility",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "TRIPOLI",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.33",
+          "pages": [
+            4
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.tobruk",
+      "name": "Tobruk temporary repair facility",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map C",
+      "hex_id": "C4807",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.33",
+          "pages": [
+            4
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.benghazi",
+      "name": "Benghazi temporary repair facility",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map B",
+      "hex_id": "B4827",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.33",
+          "pages": [
+            4
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.alexandria",
+      "name": "Alexandria major repair facility",
+      "kind": "FACILITY_LOCATION",
+      "map_section": null,
+      "hex_id": null,
+      "area_id": "ALEXANDRIA",
+      "status": "UNRESOLVED_REVIEWED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.44",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "facility-location.matruh",
+      "name": "Mersa Matruh temporary repair facility",
+      "kind": "FACILITY_LOCATION",
+      "map_section": "Map D",
+      "hex_id": "D3714",
+      "area_id": null,
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.44",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}

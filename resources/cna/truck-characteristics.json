@@ -1,0 +1,102 @@
+{
+  "version": "2026.08.19-land-3.5",
+  "source": {
+    "document": "CNAv2.1.0/images/54.2 Truck Characteristics Chart.png",
+    "section": "54.2",
+    "method": "manual chart transcription",
+    "confidence": "HIGH",
+    "errata_applied": true
+  },
+  "truck_characteristics": [
+    {
+      "id": "truck.light",
+      "name": "Light",
+      "cpa": {
+        "infantry": "25",
+        "guns": "na",
+        "supplies": "40"
+      },
+      "maximum_transport_capacity": {
+        "infantry": "½†",
+        "artillery": "na",
+        "aa": "1",
+        "ammo": "2",
+        "fuel": "50",
+        "stores": "6",
+        "water": "40"
+      },
+      "fuel_capacity": "8",
+      "fuel_consumption_factor": "1",
+      "breakdown_adjustment": "2L‡",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/54.2 Truck Characteristics Chart.png",
+          "section": "54.2",
+          "method": "manual transcription from bundled chart image; visual review",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "truck.medium",
+      "name": "Medium",
+      "cpa": {
+        "infantry": "20",
+        "guns": "15",
+        "supplies": "30"
+      },
+      "maximum_transport_capacity": {
+        "infantry": "1",
+        "artillery": "1",
+        "aa": "2",
+        "ammo": "4",
+        "fuel": "120",
+        "stores": "15",
+        "water": "100"
+      },
+      "fuel_capacity": "6",
+      "fuel_consumption_factor": "1",
+      "breakdown_adjustment": "2L",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/54.2 Truck Characteristics Chart.png",
+          "section": "54.2",
+          "method": "manual transcription from bundled chart image; visual review",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "truck.heavy",
+      "name": "Heavy",
+      "cpa": {
+        "infantry": "20",
+        "guns": "15",
+        "supplies": "30"
+      },
+      "maximum_transport_capacity": {
+        "infantry": "2",
+        "artillery": "1",
+        "aa": "4",
+        "ammo": "8",
+        "fuel": "250",
+        "stores": "30",
+        "water": "200"
+      },
+      "fuel_capacity": "6",
+      "fuel_consumption_factor": "1",
+      "breakdown_adjustment": "2L",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/54.2 Truck Characteristics Chart.png",
+          "section": "54.2",
+          "method": "manual transcription from bundled chart image; visual review",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    }
+  ]
+}

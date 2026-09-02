@@ -1,0 +1,134 @@
+{
+  "version": "2026.08.19",
+  "conflicts": [
+    {
+      "id": "fleet-60-45-internal-count",
+      "entity": "The Italians Commonwealth fleet",
+      "field": "initial fleet count",
+      "sources": [
+        {
+          "source": "Rules_Scenarios_07-2021.pdf 60.45",
+          "value": "1 battleship, 3 cruisers, 7 destroyers"
+        },
+        {
+          "source": "Rules_Scenarios_07-2021.pdf 60.45 detailed list",
+          "value": "Alexandria 2 BB, 2 cruisers, 4 AA cruisers, 6 DD; Malta 1 cruiser, 1 AA cruiser, 2 DD"
+        },
+        {
+          "source": "setup italian.vsav starting Alexandria stack",
+          "value": "Valiant; Dido, Euryalus, Arethusa; 7 named destroyers"
+        }
+      ],
+      "status": "RESOLVED",
+      "resolution": "Initialize the named VASSAL starting stack matching the summary count; preserve the contradictory detailed paragraph.",
+      "resolution_basis": "corrected VASSAL setup corroborates the first sentence of 60.45",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.45",
+          "pages": [
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "scenario-first-line-trucks-vassal",
+      "entity": "The Italians setup",
+      "field": "first-line truck counters",
+      "sources": [
+        {
+          "source": "Rules_Scenarios_07-2021.pdf 60.31/60.41",
+          "value": "explicit first-line truck strengths"
+        },
+        {
+          "source": "changelog.txt v2.1",
+          "value": "removed from scenario map; record on formation sheets"
+        }
+      ],
+      "status": "RESOLVED",
+      "resolution": "Canonical setup records truck points from the rules, not map counters.",
+      "resolution_basis": "rules are authoritative and changelog explains representation only",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.31/60.41",
+          "pages": [
+            4
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "oa-versus-reinforcement-schedules",
+      "entity": "Order of battle",
+      "field": "composition",
+      "sources": [
+        {
+          "source": "changelog.txt v2.1",
+          "value": "discrepancies, especially 5th Leicht; module chose OA"
+        }
+      ],
+      "status": "DEFERRED",
+      "resolution": null,
+      "resolution_basis": "requires complete schedule/OA transcription before non-Italian scenarios become complete",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/changelog.txt",
+          "section": "v2.1",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "benghazi-pdf-font-extraction",
+      "entity": "Benghazi",
+      "field": "hex",
+      "sources": [
+        {
+          "source": "Rules_Scenarios_07-2021.pdf 60.31 native text",
+          "value": "84827"
+        },
+        {
+          "source": "map/VASSAL coordinate",
+          "value": "B4827"
+        }
+      ],
+      "status": "RESOLVED",
+      "resolution": "B4827",
+      "resolution_basis": "native extraction confuses the printed B with 8; VASSAL coordinate and map identity agree",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.31",
+          "pages": [
+            4
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}
