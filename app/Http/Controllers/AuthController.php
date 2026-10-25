@@ -16,9 +16,7 @@ final class AuthController extends Controller
     {
         $user = User::create($request->validated());
 
-        auth()->login($user);
-
-        return response()->json(['user' => $user], 201);
+        return response()->json(['user' => $user, 'token' => $user->createToken('spa')->plainTextToken], 201);
     }
 
     public function login(LoginRequest $request): JsonResponse
@@ -28,17 +26,12 @@ final class AuthController extends Controller
             throw ValidationException::withMessages(['email' => 'Invalid credentials.']);
         }
 
-        auth()->login($user);
-
-        return response()->json(['user' => $user]);
+        return response()->json(['user' => $user, 'token' => $user->createToken('spa')->plainTextToken]);
     }
 
     public function logout(Request $request): JsonResponse
     {
-        if ($request->bearerToken() !== null) {
-            $request->user()->currentAccessToken()->delete();
-        }
-        auth()->logout();
+        $request->user()->currentAccessToken()->delete();
 
         return response()->json(['message' => 'Logged out.']);
     }

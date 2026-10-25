@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use App\Application\Scenario\CanonicalScenarioInitializer;
+use App\Application\Scenario\MinimalScenarioInitializer;
 use App\Application\Scenario\ScenarioInitializer;
 use Illuminate\Cache\RateLimiting\Limit;
 use Illuminate\Http\Request;
@@ -16,7 +16,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->app->bind(ScenarioInitializer::class, CanonicalScenarioInitializer::class);
+        $this->app->bind(ScenarioInitializer::class, MinimalScenarioInitializer::class);
     }
 
     /**

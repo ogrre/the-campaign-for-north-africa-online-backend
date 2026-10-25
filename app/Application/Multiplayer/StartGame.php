@@ -39,12 +39,6 @@ final class StartGame
             $locked->status = GameStatus::Active;
             $locked->started_at = now();
 
-            $this->events->record($locked, 'ScenarioInitialized', $locked->creator, [
-                'scenario' => $locked->scenario->slug,
-                'units' => DB::table('game_units')->where('game_id', $locked->id)->count(),
-                'formations' => DB::table('game_formations')->where('game_id', $locked->id)->count(),
-            ]);
-
             foreach ($locked->teams as $team) {
                 $decision = PendingDecision::create([
                     'game_id' => $locked->id,

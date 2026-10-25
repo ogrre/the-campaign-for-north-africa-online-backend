@@ -4,7 +4,6 @@ namespace Tests\Feature;
 
 use App\Application\Multiplayer\GameEventRecorder;
 use App\Domain\Multiplayer\EventVisibility;
-use App\Infrastructure\CnaData\CanonicalDataImporter;
 use App\Models\Game;
 use App\Models\GameInvitation;
 use App\Models\GameMembership;
@@ -23,7 +22,6 @@ class MultiplayerFoundationTest extends TestCase
     {
         parent::setUp();
         $this->seed(MultiplayerReferenceSeeder::class);
-        app(CanonicalDataImporter::class)->import();
     }
 
     public function test_creator_can_create_game_and_game_created_event_is_recorded(): void
