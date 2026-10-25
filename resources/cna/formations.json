@@ -1,0 +1,501 @@
+{
+  "version": "2026.08.19",
+  "formations": [
+    {
+      "id": "italian.63_cirene",
+      "name": "IT 63 Cir - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_63_cir_none",
+      "oa_chart": "IT 63rd Cirene Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.2_libyan",
+      "name": "IT 2 Libyan - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_2_libyan_none",
+      "oa_chart": "IT 2nd Libyan (Prescatori) Infantry Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.62_marmarica",
+      "name": "IT 62 Mrm - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_62_mrm_none",
+      "oa_chart": "IT 62nd Marmarica Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.maletti",
+      "name": "IT Maletti - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "BATTLE_GROUP",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_maletti_none",
+      "oa_chart": "IT Gruppo Maletti",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.64_catanzaro",
+      "name": "IT 64 Cat - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_64_cat_none",
+      "oa_chart": "IT 64th Catanzaro Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.2_ccnn",
+      "name": "IT 2 CCNN - (2CN)",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_2_ccnn_2cn",
+      "oa_chart": "IT 2nd CCNN (28 October) Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.1_libyan",
+      "name": "IT 1 Libyan - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_1_libyan_none",
+      "oa_chart": "IT 1st Libyan Infantry Division (Sibille)",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.1_ccnn",
+      "name": "IT 1 CCNN - (1CN)",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_1_ccnn_1cn",
+      "oa_chart": "IT 1st CCNN (23 March) Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.4_ccnn",
+      "name": "IT 4 CCNN - (4CN)",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_4_ccnn_4cn",
+      "oa_chart": "IT 4th CCNN (3 January) Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.7_armoured",
+      "name": "BR 7 - none",
+      "side": "COMMONWEALTH",
+      "nationality": "BRITISH",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "british.br_7_none",
+      "oa_chart": "BR 7th Armoured Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.4_indian",
+      "name": "IN 4 In - none",
+      "side": "COMMONWEALTH",
+      "nationality": "INDIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "indian.in_4_in_none",
+      "oa_chart": "IN 4th Indian Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.16_infantry_brigade",
+      "name": "BR 16 - 70",
+      "side": "COMMONWEALTH",
+      "nationality": "BRITISH",
+      "echelon": "BRIGADE",
+      "parent_id": null,
+      "headquarters_unit_id": "british.br_16_70",
+      "oa_chart": "BR 70th Infantry Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.6_australian",
+      "name": "AU 6 Aus - none",
+      "side": "COMMONWEALTH",
+      "nationality": "AUSTRALIAN",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "australian.au_6_aus_none",
+      "oa_chart": "AU 6th Australian Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.2_new_zealand",
+      "name": "NZ 2 NZ - none",
+      "side": "COMMONWEALTH",
+      "nationality": "NEW_ZEALAND",
+      "echelon": "DIVISION",
+      "parent_id": null,
+      "headquarters_unit_id": "new_zealand.nz_2_nz_none",
+      "oa_chart": "NZ 2nd New Zealand Division",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth.matruh_garrison",
+      "name": "BR Selby - Matruh",
+      "side": "COMMONWEALTH",
+      "nationality": "BRITISH",
+      "echelon": "GARRISON",
+      "parent_id": null,
+      "headquarters_unit_id": "british.br_selby_matruh",
+      "oa_chart": "BR Selby Force - The Matruh Garrison",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "italian.libyan_tank_command",
+      "name": "IT LTC - none",
+      "side": "AXIS",
+      "nationality": "ITALIAN",
+      "echelon": "COMMAND",
+      "parent_id": null,
+      "headquarters_unit_id": "italian.it_ltc_none",
+      "oa_chart": "IT The Libyan Tank Command",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/setup italian.vsav",
+          "component": "savedGame placement record",
+          "errata_applied": true,
+          "method": "tools/extract_vassal_save.py",
+          "confidence": "HIGH"
+        },
+        {
+          "document": "CNAv2.1.0/Rules_Scenarios_07-2021.pdf",
+          "section": "60.0",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "errata_applied": true,
+          "method": "native PDF text extraction with visual review; VASSAL setup cross-check",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "status": "PARTIAL",
+  "numbering": [
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": false,
+      "h_off": 6,
+      "v_off": -1,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": true,
+      "h_off": 6,
+      "v_off": 0,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": false,
+      "h_off": 2,
+      "v_off": -33,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": false,
+      "h_off": 12,
+      "v_off": -66,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": false,
+      "h_off": 21,
+      "v_off": -99,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "section": "VASSAL.build.module.map.boardPicker.board.HexGrid",
+      "first": "H",
+      "h_type": "N",
+      "v_type": "N",
+      "stagger": false,
+      "h_off": 19,
+      "v_off": -133,
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL HexGridNumbering",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}

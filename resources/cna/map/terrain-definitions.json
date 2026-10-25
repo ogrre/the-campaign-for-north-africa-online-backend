@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "status": "VOCABULARY_RESOLVED_GEOMETRY_PENDING",
+  "terrain-definitions": [
+    {
+      "id": "clear",
+      "name": "Clear",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Clear",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "salt_marsh",
+      "name": "Salt Marsh",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Salt Marsh",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "desert",
+      "name": "Desert",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Desert",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "rock_gravel",
+      "name": "Rock/Gravel",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Rock/Gravel",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "rough",
+      "name": "Rough",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Rough",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "mountain",
+      "name": "Mountain",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Mountain",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "heavy_vegetation",
+      "name": "Heavy Vegetation",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Heavy Vegetation",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Delta",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "swamp",
+      "name": "Swamp",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Swamp",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "name": "Sea",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Sea",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "coast",
+      "name": "Coast",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Coast",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "port",
+      "name": "Port",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Port",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "major_city",
+      "name": "Major City",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Major City",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "village_bir_oasis",
+      "name": "Village/Bir/Oasis",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Village/Bir/Oasis",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Oasis",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "training_area",
+      "name": "Training Area",
+      "category": "HEX_TERRAIN",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Training Area",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "fortification_level_one",
+      "name": "Fortifications — Level One",
+      "category": "HEX_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Fortifications — Level One",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "fortification_level_two",
+      "name": "Fortifications — Level Two",
+      "category": "HEX_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Fortifications — Level Two",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "fortification_level_three",
+      "name": "Fortifications — Level Three",
+      "category": "HEX_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Fortifications — Level Three",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "friendly_minefield",
+      "name": "Friendly Minefield",
+      "category": "HEX_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Friendly Minefield",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "enemy_minefield",
+      "name": "Enemy Minefield",
+      "category": "HEX_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Enemy Minefield",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "road",
+      "name": "Road",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Road",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "unfinished_road",
+      "name": "Unfinished Road",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Unfinished Road",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "track",
+      "name": "Track",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Track",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "railroad",
+      "name": "Railroad",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Railroad",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "unfinished_railroad",
+      "name": "Unfinished Railroad",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Unfinished Railroad",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "ridge",
+      "name": "Ridge",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Ridge",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "escarpment",
+      "name": "Escarpment",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Escarpment",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "slope",
+      "name": "Slope",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Slope",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "wadi",
+      "name": "Wadi",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Wadi",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "border",
+      "name": "Border",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Border",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "major_river",
+      "name": "Major River",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Major River",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    },
+    {
+      "id": "minor_river",
+      "name": "Minor River",
+      "category": "HEXSIDE_FEATURE",
+      "status": "RESOLVED",
+      "provenance": [
+        {
+          "document": "CNAv2.1.0/images/TEC.png",
+          "section": "8.37 Terrain Effects Chart",
+          "visual_label": "Minor River",
+          "method": "manual vocabulary transcription from chart legend",
+          "confidence": "HIGH",
+          "errata_applied": true
+        }
+      ]
+    }
+  ]
+}

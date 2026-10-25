@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "status": "PARTIAL",
+  "maps": [
+    {
+      "id": "main_map",
+      "name": "Main Map",
+      "kind": "GEOGRAPHIC",
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL map",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "axis_control_sheet_1",
+      "name": "Axis Control Sheet 1",
+      "kind": "REFERENCE_SHEET",
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL map",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "axis_control_sheet_2",
+      "name": "Axis Control Sheet 2",
+      "kind": "REFERENCE_SHEET",
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL map",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth_control_sheet",
+      "name": "Commonwealth Control Sheet",
+      "kind": "REFERENCE_SHEET",
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL map",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth_control_sheet_2",
+      "name": "Commonwealth Control Sheet 2",
+      "kind": "REFERENCE_SHEET",
+      "provenance": [
+        {
+          "document": "data/extracted/vassal-catalog.json",
+          "method": "catalogued VASSAL map",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}
